@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+}
